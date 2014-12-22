@@ -44,6 +44,7 @@ class LobbyServer(object):
         self.commands = {
             '/CONNECT': self.command_connect,
             '/JOIN': self.command_join,
+            '/PART': self.command_part,
             '/QUIT': self.command_quit,
         }
 
