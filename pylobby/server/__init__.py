@@ -42,9 +42,9 @@ class LobbyServer(object):
         self.members = {}
 
         self.commands = {
-            '/CONNECT': self.cmd_connect,
-            '/JOIN': self.cmd_join,
-            '/QUIT': self.cmd_quit,
+            '/CONNECT': self.command_connect,
+            '/JOIN': self.command_join,
+            '/QUIT': self.command_quit,
         }
 
     def start(self):
