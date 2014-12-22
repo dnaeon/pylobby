@@ -189,7 +189,7 @@ class LobbyServer(object):
                 return
 
         if is_command:
-            self.process_cmd(msg=msg, identity=identity)
+            self.process_command(msg=msg, identity=identity)
         else:
             self.broadcast(**msg)
 
@@ -244,7 +244,7 @@ class LobbyServer(object):
 
         return True
 
-    def process_cmd(self, msg, identity):
+    def process_command(self, msg, identity):
         """
         docstring
 
