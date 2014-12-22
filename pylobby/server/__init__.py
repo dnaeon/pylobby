@@ -352,7 +352,7 @@ class LobbyServer(object):
         self.rooms[room].members.pop(who)
         self.broadcast(
             room=room,
-            message='%s has left %s', % (who, room)
+            message='%s has left %s' % (who, room)
         )
         self.debug('%s has left %s', who, room)
 
