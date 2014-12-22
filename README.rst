@@ -23,7 +23,7 @@ Requirements
 Contributions
 =============
 
-pylobby is hosted on Github <https://github.com/dnaeon/pylobby>`_.
+pylobby is hosted on Github `<https://github.com/dnaeon/pylobby>`_.
 Please contribute by reporting issues, suggesting features or by
 sending patches using pull requests.
 
