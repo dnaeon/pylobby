@@ -240,7 +240,7 @@ class LobbyClient(threading.Thread):
         logging.info('Unsubscribing from %s', room)
         self.backend_socket.setsockopt(zmq.UNSUBSCRIBE, room)
         
-    def command_quit(self, **kwargs):
+    def command_quit(self, msg):
         """
         docstring
 
