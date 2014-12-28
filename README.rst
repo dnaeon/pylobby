@@ -1,5 +1,5 @@
-pylobby - Decentralized chat library
-====================================
+pylobby - Distributed chat system
+=================================
 
 .. image:: https://pypip.in/version/pylobby/badge.svg
     :target: https://pypi.python.org/pypi/pylobby/
@@ -9,7 +9,7 @@ pylobby - Decentralized chat library
     :target: https://pypi.python.org/pypi/pylobby/
     :alt: Downloads
 
-pylobby is a decentralized chat library written in Python.
+pylobby is a distributed chat system written in Python and ZeroMQ.
 
 pylobby is Open Source and licensed under the
 `BSD License <http://opensource.org/licenses/BSD-2-Clause>`_.

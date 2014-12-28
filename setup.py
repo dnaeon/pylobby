@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='pylobby',
       version='0.1.0',
-      description='Decentralized chat library',
+      description='Distributed chat system',
       long_description=open('README.rst').read(),
       author='Marin Atanasov Nikolov',
       author_email='dnaeon@gmail.com',
