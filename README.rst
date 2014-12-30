@@ -49,3 +49,18 @@ Examples
 ========
 
 To be added.
+
+Maturity
+========
+
+pylobby is in early development stage. Expect things to change,
+things could break and probably be lacking good documentation.
+
+These areas of pylobby will be improved as the pylobby
+development progresses.
+
+Bugs
+====
+
+Probably. If you experience a bug issue, please report it to the
+`pylobby issue tracker on Github <https://github.com/dnaeon/pylobby/issues>`_.
