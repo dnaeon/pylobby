@@ -1,11 +1,11 @@
 pylobby - Distributed chat system
 =================================
 
-.. image:: https://pypip.in/version/pylobby/badge.svg
+.. image:: https://img.shields.io/pypi/v/pylobby.svg
     :target: https://pypi.python.org/pypi/pylobby/
     :alt: Latest Version
 
-.. image:: https://pypip.in/download/pylobby/badge.svg
+.. image:: https://img.shields.io/pypi/dm/pylobby.svg
     :target: https://pypi.python.org/pypi/pylobby/
     :alt: Downloads
 
